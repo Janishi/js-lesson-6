@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 45px;
+    position: relative;
+}
+
+.fa-js{
+    font-size: 45px;
+}
+
+.ul-list {
+    display: flex;
+    justify-content: space-between;
+    gap: 3em;
+}
+.burger {
+    font-size: 22px;
+    position: absolute;
+    top: 23px;
+    right: 30px;
+    cursor: pointer;
+    display: none;
+
+}
+
+/* .container2 {
+
+    display: flex;
+    flex-direction: column;
+} */

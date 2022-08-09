@@ -112,7 +112,7 @@
 
 // array.forEach(item => console.log(item)); 
 
-let array = ['html', 'css', 'javascrip', 'bootsrap'];
+// let array = ['html', 'css', 'javascrip', 'bootsrap'];
 // for (let x=0; x<array.length; x++){
 //     if (array[x].length >4){
 //         console.log(array[x]);
